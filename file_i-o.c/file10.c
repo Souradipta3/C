@@ -1,0 +1,1 @@
+//Write a program to double the integer in file 1 to file 2 (read 1 and write file 2)
